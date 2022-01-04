@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @01-pavan
+- 👋 Hi, I’m Pavan Kumar
 - 👀 I’m interested in Building Web Applications.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Open Source.
