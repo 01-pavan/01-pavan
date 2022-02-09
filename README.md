@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Pavan Kumar
 - 👀 I’m interested in Building Web Applications.
 - 🌱 I’m currently learning Reactjs.
+- 💻 I'm looking for internship.
 - 💞️ I’m looking to collaborate on Open Source.
 - 📧 im.pavankumar01@gmail.com
 
