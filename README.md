@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PAVAN KUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="image" />
 
 <p align="left"> <a href="https://twitter.com/pavancodes" target="blank"><img src="https://img.shields.io/twitter/follow/pavancodes?logo=twitter&style=for-the-badge" alt="pavancodes" /></a> </p>
