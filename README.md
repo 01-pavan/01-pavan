@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Back-end Development**
 
-- 💬 Ask me about **JavaScript, React.js.**
+- 💬 Ask me about **JavaScript, React.js Tailwind CSS.**
 
 - 📫 How to reach me **im.pavankumar01@gmail.com**
 
