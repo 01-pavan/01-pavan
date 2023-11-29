@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/pavancodes" target="blank"><img src="https://img.shields.io/twitter/follow/pavancodes?logo=twitter&style=for-the-badge" alt="pavancodes" /></a> </p>
 
-- 💬 Ask me about **JavaScript, React.js Tailwind CSS.**
+- 💬 Ask me about **AWS, System Design, No-code tools, JavaScript, React.js Tailwind CSS.**
 
 - 📫 How to reach me **im.pavankumar01@gmail.com**
 
